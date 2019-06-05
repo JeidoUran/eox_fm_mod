@@ -1,6 +1,6 @@
 # EOX FM Mod
 
-A luma layeredfs patch that replaces musics from EOX with their FM versions.
+A luma layeredfs patch that replaces musics from Etrian Odyssey Nexus with their FM versions.
 
 To install, download the correct version for your region [here](https://github.com/JeidoUran/eox_fm_mod/releases), and simply extract the contents of the zip archive to the root of your SD Card. Make sure that "Enable game patching" is checked in Luma3DS Settings.
 
@@ -12,6 +12,6 @@ All the tracks in the mod have been manually looped by myself, and while I can g
 
 Here are the replaced musics:
 
-All of Etrian Odyssey.<br/>All of Etrian Odyssey 2.<br/>All of Etrian Odyssey 3.<br/>All of Etrian Odyssey 5.<br/>Most of Etrian Odyssey X (from Yuzo Koshiro's Youtube channel).
+All of Etrian Odyssey.<br/>All of Etrian Odyssey 2.<br/>All of Etrian Odyssey 3.<br/>All of Etrian Odyssey 5.<br/>Most of Etrian Odyssey Nexus (from Yuzo Koshiro's Youtube channel).
 
 Etrian Odyssey 4 and the rest of Etrian Odyssey X are left as is, since there are no FM version of them existing at all.
