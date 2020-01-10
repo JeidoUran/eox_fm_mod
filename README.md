@@ -8,7 +8,7 @@ To install, download the correct version for your region [here](https://github.c
 
 Most tracks in the mod are from the Original Soundtrack CDs instead of from the previous 3DS games. I chose to do it that way because the 3DS remakes actually use the PC-88 versions of the musics instead of the original Nintendo DS ones. It also provides a better sound quality overall, and especially with headphones.
 
-All the tracks in the mod have been manually looped by myself, and while I can guarantee that the mod doesn't crash the game, I didn't fully listen to all of the musics so some loops may be off. Please contact me on Discord (Jeido#7568) if you find anything that doesn't work as intended.
+All the tracks in the mod have been manually looped by myself, and while I can guarantee that the mod doesn't crash the game, I didn't fully listen to all of the musics so some loops may be off. Please contact me on Discord (Jeido#1907) if you find anything that doesn't work as intended.
 
 Here are the replaced musics:
 
